@@ -9,7 +9,6 @@
 ## 🚀 Sobre mim
 
 - 🎓 Técnica em Informática pelo **IFRS**
-- 🌱 Comecei a programar aos 15 anos no ensino médio integrado ao técnico
 - 🔍 Foco atual: aprofundar em **Python**, **Django** e **SQL**
 - 📍 Porto Alegre, RS
 
