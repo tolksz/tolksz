@@ -9,9 +9,9 @@
 ## 🚀 Sobre mim
 
 - 🎓 Técnica em Informática pelo **IFRS**
-- 🔍 Foco atual: aprofundar em **Python**, **Django** e **SQL**
+- 🚀 Participante da **Residência Tecnológica Futuro Digital** junto da empresa **Netz**
+- 🔍 Foco atual em desenvolvimento web, arquitetura de projetos, documentação técnica e workflows de desenvolvimento
 - 📍 Porto Alegre, RS
-
 ---
 
 ## 🛠️ Tecnologias
@@ -34,11 +34,31 @@
 
 ## 📚 Aprendendo agora
 
-- Aprofundamento em **Django** (autenticação, permissões, geração de PDFs)
-- **SQL** e modelagem de banco de dados
-- Boas práticas com **Git/GitHub**
-
+- Estruturação de briefings e formulários para projetos web
+- UX para formulários multi-etapas
+- Documentação técnica em Markdown
+- SEO técnico e acessibilidade web 
+- Design systems e component libraries
+- Modelagem e estruturação de dados
+- Payload CMS e deploy em VPS
+- Workflows completos de desenvolvimento web
+  
 ---
+
+## 📌 Experiência Atual
+
+### Residência Tecnológica Netz
+
+Participação na construção da base técnica e documental do Portal de Parcerias da Netz, uma plataforma B2B para automação de briefings e orçamentos de projetos web com IA.
+
+Atuação em:
+- Estruturação de documentação técnica
+- UX e arquitetura de formulários
+- SEO técnico e acessibilidade
+- Design systems
+- Modelagem de dados
+- Fluxos de desenvolvimento e deploy
+- Estudos e implementação com Payload CMS
 <p>
   <a href="https://www.linkedin.com/in/jessica-tolksdorf" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
