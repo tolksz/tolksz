@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Jéssica 👋</h1>
 
 <p align="center">
-  Back-end Developer · Python • Django • SQL · Porto Alegre, Brazil
+  Back-end Developer • Python • Django • SQL •
+  Porto Alegre, Brazil
 </p>
 
 ---
